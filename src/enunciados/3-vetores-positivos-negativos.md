@@ -1,2 +1,2 @@
 # Vetores positivos negativos
-Faça um programa que preencha um vetor com oito números inteiros, calcule e mostre dois vetores resultantes. O primeiro deve conter os números positivos; o segundo deve conter os números negativos. Cada vetor resultante vai ter, no máximo, oito posições, que poderão não ser completamente utilizadas.
+Faça um programa que preencha um vetor com oito números inteiros, a partir desse vetor calcule e separe em dois vetores diferentes, o primeiro deve conter os números positivos e o segundo deve conter os números negativos.(mesmo que zero não seja negativo, nem positivo, ele deve entrar no vetor de números positivos)
